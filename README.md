@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsidhar10&label=Profile%20views&color=0e75b6&style=flat" alt="vamsidhar10" /> </p-->
 
-- 🌱 Actively seeking SDE/SWE/Full Stack roles
+🌱 Actively seeking SDE/SWE/Full Stack roles
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vamsidhar10](https://github.com/Vamsidhar10)
+👨‍💻 All of my projects are available at [https://github.com/Vamsidhar10](https://github.com/Vamsidhar10)
 
-- 💬 Ask me about **Java, Spring Boot, Angular, Software Enigneering**
+💬 Ask me about **Java, Spring Boot, Angular, Software Enigneering**
 
-- 📫 How to reach me **vamsidharpagadala@gmail.com**
+📫 How to reach me **vamsidharpagadala@gmail.com**
 
-- ⚡ Fun fact **I am an ambivert**
+⚡ Fun fact **I am an ambivert**
 
 ### Connect with me:
 [![MY LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsidhar-pagadala-b85620147/)
