@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 Actively seeking SWE roles
 
-- - 🔭 I’m currently working on **Full Stack development**
+- 🔭 I’m currently working on **Full Stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vamsidhar10](https://github.com/Vamsidhar10)
 
