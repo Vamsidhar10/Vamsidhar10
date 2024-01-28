@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 🌱 Actively seeking SDE/SWE/Full Stack roles
 
-👨‍💻 All of my projects are available at [https://github.com/Vamsidhar10](https://github.com/Vamsidhar10)
-
 💬 Ask me about **Java, Spring Boot, Angular, Software Enigneering**
 
 📫 How to reach me **vamsidharpagadala@gmail.com**
