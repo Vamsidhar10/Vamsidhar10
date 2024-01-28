@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Vamsidhar Pagadala</h1>
 <h3 align="center">A curious Software Engineer 🤓</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsidhar10&label=Profile%20views&color=0e75b6&style=flat" alt="vamsidhar10" /> </p>
+<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsidhar10&label=Profile%20views&color=0e75b6&style=flat" alt="vamsidhar10" /> </p-->
 
 - 🌱 Actively seeking SWE roles
 
