@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsidhar10&label=Profile%20views&color=0e75b6&style=flat" alt="vamsidhar10" /> </p-->
 
+<!--
 🌱 Actively seeking SDE/SWE/Full Stack roles
+-->
 
 💬 Ask me about **Java, Spring Boot, Angular, Software Enigneering**
 
