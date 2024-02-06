@@ -22,13 +22,15 @@ Here are some ideas to get you started:
 <!--
 🌱 Actively seeking SDE/SWE/Full Stack roles
 -->
-👨🏻‍💻 Software Engineer / Full Stack Web Developer
+
+
+- 👨🏻‍💻 Software Engineer / Full Stack Web Developer
  
-💬 Ask me about **Java, Spring Boot, Angular, Software Enigneering**
+- 💬 Ask me about **Java, Spring Boot, Angular, Software Enigneering**
 
-📫 How to reach me **vamsidharpagadala@gmail.com**
+- 📫 How to reach me **vamsidharpagadala@gmail.com**
 
-⚡ Fun fact **I am an ambivert**
+- ⚡ Fun fact **I am an ambivert**
 
 ### Connect with me:
 [![MY LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsidhar-pagadala-b85620147/)
@@ -48,7 +50,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
-## Front-End
+## Front-end
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
