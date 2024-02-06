@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 <!--
 🌱 Actively seeking SDE/SWE/Full Stack roles
 -->
-
+👨🏻‍💻 Software Engineer / Full Stack Web Developer
+ 
 💬 Ask me about **Java, Spring Boot, Angular, Software Enigneering**
 
 📫 How to reach me **vamsidharpagadala@gmail.com**
