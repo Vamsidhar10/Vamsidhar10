@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 
 - 👨🏻‍💻 Software Engineer / Full Stack Web Developer
  
-- 💬 Ask me about **Java, Spring Boot, Angular, Software Enigneering**
+- 💬 Ask me about **Java, Spring Boot, Angular, Software Engineering**
 
 - 📫 How to reach me **vamsidharpagadala@gmail.com**
 
 - ⚡ Fun fact **I am an ambivert**
 
 ### Connect with me:
-[![MY LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsidhar-pagadala-b85620147/)
+[![MY LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsidhar-pagadala/)
 
 
 <!--p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vamsidhar10&show_icons=true&locale=en&layout=compact" alt="vamsidhar10" /></p-->
@@ -53,8 +53,7 @@ Here are some ideas to get you started:
 ## Front-end
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Back-end
